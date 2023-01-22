@@ -7,3 +7,12 @@
 mlruns
 mlflow
 nbhooks
+
+.ipynb_checkpoints/*
+.ipynb_checkpoints
+
+__pycache__/*
+__pycache__
+
+new-mlflow/*
+new-mlflow
